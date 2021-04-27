@@ -16,4 +16,4 @@ form_header = {"cookie": ""}
 
 下载后的文档跳转需要右键在新标签中打开
 
-![Image text](https://github.com/sharkme/kanyun_download/img.png)
+![Image text](https://github.com/sharkme/kanyun_download/blob/main/img.png)
